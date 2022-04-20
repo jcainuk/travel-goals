@@ -37,3 +37,7 @@ header ul {
 header li {
   margin-left: 20px;
 }
+
+header a {
+  color: rgb(255, 251, 0);
+}
