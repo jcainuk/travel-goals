@@ -40,4 +40,5 @@ header li {
 
 header a {
   color: rgb(255, 251, 0);
+  text-decoration: none;
 }
