@@ -48,6 +48,10 @@
   background-color: rgb(255, 238, 0);
 }
 
+#destinations {
+  display: flex;
+}
+
 .destination img {
   height: 200px;
 }
