@@ -52,6 +52,10 @@ main li img {
   justify-content: space-between;
 }
 
+.item-content h2 {
+  margin: 0;
+}
+
 .actions {
   text-align: right;
 }
