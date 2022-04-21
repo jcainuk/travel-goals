@@ -28,3 +28,18 @@ main li img {
 .item-content {
   padding: 24px;
 }
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.actions a {
+  text-decoration: none;
+}
+
+.actions a:hover {
+  background-color: turquoise;
+  border-radius: 10px;
+  padding: 2px;
+}
